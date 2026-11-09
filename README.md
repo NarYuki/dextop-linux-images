@@ -9,7 +9,8 @@ It is signed and Dextop verifies the signature and the image's SHA-256.
 
 ## Licenses and source
 
-Images are made of Debian packages and DD-Turnip, each under its own license. Inside an image,
+Images are made of Debian packages, DD-Turnip and the Materia-Manjaro-Dark IceWM theme
+(GPL-3.0), each under its own license. Inside an image,
 see `/usr/share/doc/<package>/copyright` and `/usr/share/doc/dextop-image/`.
 
 Each release includes `*-sources.tar`: the complete corresponding source of that image, with
